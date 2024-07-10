@@ -1,4 +1,0 @@
-# ROS
-		# Underdelay
-		source /opt/ros/humble/setup.zsh
-		source ~/ros2_ws/install/local_setup.zsh
